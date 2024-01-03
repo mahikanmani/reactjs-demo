@@ -1,2 +1,2 @@
 #!/bin/bash
-docker build -t mahi04kanmani/dev .
+docker build -t capstone .
